@@ -2,8 +2,11 @@
   "name": "myotest-step-analysis-data-set-1",
   "version": "0.1.0",
   "description": "725 samples representing 7 steps, recorder with TiTag",
-  "keywords": [],
-  "author": "nimmyo",
+  "keywords": [
+    "Myotest",
+    "myotest"
+    ],
+  "author": "Nicolas Marty <nim@myotest.com>",
   "license": "Apache-2.0",
   "dependencies": {
     "myotest-prerecorded-data-collection": "~0.2.0"
