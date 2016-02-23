@@ -1,6 +1,6 @@
 {
   "name": "myotest-step-analysis-data-set-1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pre-recorded 3 axes accelerometer signal data set, mix of walk and run, sensor worn on the belt",
   "keywords": [
     "Myotest",
